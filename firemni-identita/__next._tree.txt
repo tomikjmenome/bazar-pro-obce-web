@@ -1,4 +1,4 @@
-:HL["/_next/static/chunks/063rq94eps0k8.css","style"]
+:HL["/_next/static/chunks/43yemrwty4sux.css","style"]
 :HL["/_next/static/media/BazarFlow_Bold-s.p.3gfswgq0gkz9r.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/InterVariable-s.p.2c0y96ae70xfx.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/chunks/1hth9ypbu7bll.css","style"]
@@ -20,7 +20,9 @@
 :HL["/firemni-identita/prvky/ikona-ostatni.svg","image"]
 :HL["/firemni-identita/prvky/ikona-akce.svg","image"]
 :HL["/firemni-identita/prvky/silueta-obce.svg","image"]
-:HL["/firemni-identita/foto/letak.jpg","image"]
+:HL["/firemni-identita/foto/letak-a5-predni.jpg","image"]
+:HL["/firemni-identita/foto/letak-a5-zadni.jpg","image"]
+:HL["/firemni-identita/foto/letak-a5-jednostranny.jpg","image"]
 :HL["/firemni-identita/ikona/ikona-aplikace-1024.png","image"]
 :HL["/firemni-identita/ikona/ikona-aplikace-tmava-1024.png","image"]
 :HL["/brand/TH-logo-bile.svg","image"]
@@ -28,4 +30,4 @@
 :HL["/firemni-identita/logo/horizontal-bila.svg","image"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"firemni-identita","h":96,"c":"$Q2"}]]
-0:{"b":"r45VSmB7g_tNj8X0DeMMS","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"mWBp99dPB1qG5w1VhdNeU","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
